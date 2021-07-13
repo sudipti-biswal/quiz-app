@@ -2,12 +2,12 @@
 
 const quizData =[
    {
-   	question: 'how old is Florina?',
-   	a:'10',
-   	b:'17',
-   	c:'26',
-   	d:'110',
-   	correct:'c'
+   	question: ' Everything in React is a _____________',
+   	a:' Module',
+   	b:'Component',
+   	c:'Package',
+   	d:'Class',
+   	correct:'b'
    }, {
    	question: 'What is the most used programing language in 2019?',
    	a:'Java',
@@ -16,11 +16,10 @@ const quizData =[
    	d:'JavaScript',
    	correct:'d'
    }, {
-   	question: 'Who is he President of US?',
-        a: "Florin Pop",
-        b: "Donald Trump",
-        c: "Ivan Saldano",
-        d: "Mihai Andrei",
+   	question: 'What is state in React?',
+        a: "A persistant storage",
+        b: "An internal data store (object) of a component.",
+     
         correct: "b",
    }, {
         question: "What does HTML stand for?",
